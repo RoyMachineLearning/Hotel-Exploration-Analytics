@@ -1,2 +1,2 @@
 # Hotel-Exploration-Analytics
-Exploratory Analytics on Hotel Data
+Exploratory Analytics on Hotel Dataset provided for the case study
